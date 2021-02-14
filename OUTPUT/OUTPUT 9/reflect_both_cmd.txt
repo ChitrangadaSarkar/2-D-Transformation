@@ -1,0 +1,49 @@
+Enter the number of shapes you want to create: 1
+
+Enter 1 for drawing a line
+Enter 2 for drawing a circle
+Enter 3 for drawing an ellipse
+
+INPUT : 1
+
+Enter the number of lines you want to draw: 4
+
+Enter x coordinate of starting point: 1
+Enter y coordinate of starting point: 1
+Enter x coordinate of ending point: 100
+Enter y coordinate of ending point: 1
+
+Enter x coordinate of starting point: 100
+Enter y coordinate of starting point: 1
+Enter x coordinate of ending point: 100
+Enter y coordinate of ending point: 200
+
+Enter x coordinate of starting point: 1
+Enter y coordinate of starting point: 100
+Enter x coordinate of ending point: 100
+Enter y coordinate of ending point: 200
+
+Enter x coordinate of starting point: 1
+Enter y coordinate of starting point: 1
+Enter x coordinate of ending point: 1
+Enter y coordinate of ending point: 100
+
+Enter the number of transformations: 1
+
+Enter 1 for translation
+Enter 2 for rotation
+Enter 3 for scaling
+Enter 4 for reflection
+Enter 5 for shearing
+
+INPUT : 4
+Enter 1 for reflection about x-axis
+Enter 2 for reflection about y-axis
+Enter 3 for reflection about a line parallel to x-axis
+Enter 4 for reflection about a line parallel to y-axis
+Enter 5 for reflection about any other line
+
+INPUT : 5
+
+Enter the value of slope(m) [as in y = mx + c]: -1
+Enter the value of constant(c) [as in y = mx + c]: 0.5

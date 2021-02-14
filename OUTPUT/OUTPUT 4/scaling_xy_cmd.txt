@@ -1,0 +1,60 @@
+Enter the number of shapes you want to create: 2
+
+Enter 1 for drawing a line
+Enter 2 for drawing a circle
+Enter 3 for drawing an ellipse
+
+INPUT : 1
+
+Enter the number of lines you want to draw: 4
+
+Enter x coordinate of starting point: -100
+Enter y coordinate of starting point: -100
+Enter x coordinate of ending point: 100
+Enter y coordinate of ending point: -100
+
+Enter x coordinate of starting point: 100
+Enter y coordinate of starting point: -100
+Enter x coordinate of ending point: 100
+Enter y coordinate of ending point: 100
+
+Enter x coordinate of starting point: -100
+Enter y coordinate of starting point: 100
+Enter x coordinate of ending point: 100
+Enter y coordinate of ending point: 100
+
+Enter x coordinate of starting point: -100
+Enter y coordinate of starting point: 100
+Enter x coordinate of ending point: -100
+Enter y coordinate of ending point: -100
+
+Enter 1 for drawing a line
+Enter 2 for drawing a circle
+Enter 3 for drawing an ellipse
+
+INPUT : 2
+
+Enter the number of circles you want to draw: 1
+
+Enter x coordinate of centre point: 0
+Enter y coordinate of centre point: 0
+Enter radius: 100
+
+Enter the number of transformations: 1
+
+Enter 1 for translation
+Enter 2 for rotation
+Enter 3 for scaling
+Enter 4 for reflection
+Enter 5 for shearing
+
+INPUT : 3
+
+Enter 1 for scaling along x-axis
+Enter 2 for scaling along y-axis
+Enter 3 for scaling along both axes
+
+INPUT : 3
+
+Enter the scaling factor along x-axis: 3.5
+Enter the scaling factor along y-axis: 4.3

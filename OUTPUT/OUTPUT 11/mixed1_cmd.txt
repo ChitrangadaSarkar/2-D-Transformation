@@ -1,0 +1,66 @@
+Enter the number of shapes you want to create: 3
+
+Enter 1 for drawing a line
+Enter 2 for drawing a circle
+Enter 3 for drawing an ellipse
+
+INPUT : 2
+
+Enter the number of circles you want to draw: 1
+
+Enter x coordinate of centre point: 0
+Enter y coordinate of centre point: 0
+Enter radius: 50
+
+Enter 1 for drawing a line
+Enter 2 for drawing a circle
+Enter 3 for drawing an ellipse
+
+INPUT : 3
+
+Enter the number of ellipse you want to draw: 2
+
+Enter x center coordinate : 0
+Enter y center coordinate : 0
+Enter major axis of the ellipse : 200
+Enter minor axis of the ellipse : 50
+
+Enter x center coordinate : 0
+Enter y center coordinate : 0
+Enter major axis of the ellipse : 50
+Enter minor axis of the ellipse : 200
+
+Enter the number of transformations: 2
+
+Enter 1 for translation
+Enter 2 for rotation
+Enter 3 for scaling
+Enter 4 for reflection
+Enter 5 for shearing
+
+INPUT : 1
+
+Enter 1 for translating along x-axis
+Enter 2 for translating along y-axis
+Enter 3 for translating along both axes
+
+INPUT : 2
+
+Enter the translating factor along y-axis: 200
+
+Enter 1 for translation
+Enter 2 for rotation
+Enter 3 for scaling
+Enter 4 for reflection
+Enter 5 for shearing
+
+INPUT : 2
+
+Enter 1 for clockwise rotation
+Enter 2 for anticlockwise rotation
+
+INPUT : 2
+
+Enter the angle of anticlockwise rotation: 45
+Enter the abscissa of the pivot point(Enter 0 in case of origin): 0
+Enter the ordinate of the pivot point(Enter 0 in case of origin): 200

@@ -1,0 +1,33 @@
+Enter the number of shapes you want to create: 1
+
+Enter 1 for drawing a line
+Enter 2 for drawing a circle
+Enter 3 for drawing an ellipse
+
+INPUT : 3
+
+Enter the number of ellipse you want to draw: 1
+
+Enter x center coordinate : 0
+Enter y center coordinate : 100
+Enter major axis of the ellipse : 200
+Enter minor axis of the ellipse : 90
+
+Enter the number of transformations: 1
+
+Enter 1 for translation
+Enter 2 for rotation
+Enter 3 for scaling
+Enter 4 for reflection
+Enter 5 for shearing
+
+INPUT : 4
+Enter 1 for reflection about x-axis
+Enter 2 for reflection about y-axis
+Enter 3 for reflection about a line parallel to x-axis
+Enter 4 for reflection about a line parallel to y-axis
+Enter 5 for reflection about any other line
+
+INPUT : 3
+
+Enter the value of constant (as in y = constant): -10

@@ -1,0 +1,53 @@
+Enter the number of shapes you want to create: 4
+
+Enter 1 for drawing a line
+Enter 2 for drawing a circle
+Enter 3 for drawing an ellipse
+
+INPUT : 2
+
+Enter the number of circles you want to draw: 2
+
+Enter x coordinate of centre point: 0
+Enter y coordinate of centre point: 0
+Enter radius: 50
+
+Enter x coordinate of centre point: 20
+Enter y coordinate of centre point: 10
+Enter radius: 60
+
+Enter 1 for drawing a line
+Enter 2 for drawing a circle
+Enter 3 for drawing an ellipse
+
+INPUT : 3
+
+Enter the number of ellipse you want to draw: 2
+
+Enter x center coordinate : 10
+Enter y center coordinate : 20
+Enter major axis of the ellipse : 200
+Enter minor axis of the ellipse : 100
+
+Enter x center coordinate : 30
+Enter y center coordinate : 20
+Enter major axis of the ellipse : 200
+Enter minor axis of the ellipse : 300
+
+Enter the number of transformations: 1
+
+Enter 1 for translation
+Enter 2 for rotation
+Enter 3 for scaling
+Enter 4 for reflection
+Enter 5 for shearing
+
+INPUT : 5
+Enter 1 for shearing along x-axis
+Enter 2 for shearing along y-axis
+Enter 3 for shearing along both axes
+
+INPUT : 3
+
+Enter the shearing factor along x-axis: 1.3
+Enter the shearing factor along y-axis: 2.8
